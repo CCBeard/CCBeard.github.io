@@ -28,7 +28,7 @@ linkedin_username: linkedin.com/in/corey-beard-952834253
 github_username:  CCBeard
 
 # Build settings
-theme: minima
+theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
 
