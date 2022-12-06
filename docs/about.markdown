@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About - Corey
+title: About
 permalink: /about/
 ---
 
-Hi, my name is Corey Beard and I'm an astrophysicist studying exoplanets at UC Irvine.
+Hi, my name is Corey Beard and I'm an astrophysicist studying exoplanets at UC Irvine with professor Paul Robertson.
 
-The basic motivation is simple: we know about many planets other than Earth in the solar system, many are visible to the naked eye. Mars, Venus, Jupiter, etc. all orbit our friendly neighborhood Sun, so it only stands to reason that other planets might be orbiting one of the other stars we see in the night sky.
+I'm in my 5th year now, and expect to graduate in late 2023. I expect to look for data science jobs outside of academia, in fact, I'm already developing my skills.
 
-It turns out, most stars have planets. What was particularly surprising, however, was the discovery of planets with no analogs in our own solar system: Jupiter sized planets pressed right up against their star, or intermediate sized planets, somewhere between Earth and Neptune. Systems of planets orbiting other stars, it turns out, come in as many shapes and sizes as there are people on Earth.
+I'm a big fan of Dungeons and Dragons and fantasy in general, but I also like to get outdoors and snowboard or wakeboard. Oh, and I play classical guitar.
 
-I'm an observational astronomer, which means I actually stay up all night and collect data from time to time. Though more often I'm at my desk at UCI, running models, analyzing data, and writing code.
-
-I specialize in the radial velocity (RV) and transit methods for discovering exoplanets, though I dabble in other areas. My particular interest is in stellar activity interfering with high precision RV measurements, and utilizing photometry to inform models that can eliminate this source of uncertainty.
+Physics isn't the only thing that interests me, I study and know about a variety of topics. I studied abroad in Japan, and can speak Japanese conversationally. I have a twin brother who is a lawyer, and I even took an Advance Criminal Procedure class at UC Irvine's law school: that was pretty cool.
