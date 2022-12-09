@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "GJ 3929 Paper Featured in AAS Nova"
+date:   2022-12-09 13:25:57 -0800
+categories: website
+---
+
+To my surprise and delight, my recent paper [GJ 2929: High-precision Photometric adn Doppler Characterization of an Exo-Venus and Its Hot, Mini-Neptune-mass Companion](https://ui.adsabs.harvard.edu/abs/2022ApJ...936...55B/abstract) was recently featured on the American Astronomical Society's AAS Nova blog, highlighting all the work our team put into the system itself.
+
+The blog post is available [here](https://aasnova.org/2022/12/09/dotting-the-is-crossing-the-ts-follow-up-of-an-exo-venus/), and I encourage everyone to check it out. For a more detailed analysis of the system, check out my paper linked above. This exo-venus and mini-neptune companion fit a bunch of different, exciting science cases. Expect to see more about the system in the future!
+
+
+![](Images/MR_GJ3939.jpeg)
+
+Caption
