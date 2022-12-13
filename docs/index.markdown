@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<img align="right" width="300" height="380" src="./Images/Corey.png">
 
 Hello there, welcome to my research website!
 

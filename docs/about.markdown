@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img align="right" width="300" height="380" src="./Images/Lick_Selfie.JPG">
+<img align="right" width="300" height="380" src="./Images/Corey.png">
 
 
 Hi, my name is Corey Beard and I'm an astrophysicist studying exoplanets at UC Irvine with professor [Paul Robertson](https://faculty.sites.uci.edu/robertson/).
@@ -16,7 +16,8 @@ After graduating from UCLA with a B.S. in Physics in 2017, I took a year off to 
 I would eventually be accepted as a graduate student at UC Irvine, where I have since shifted to exoplanet astronomy: looking for planets around other stars. I'm in my 5th year now, and expect to graduate in late 2023. I'm already thinking a lot about what comes next in my career.
 
 -------------------
+**Interests**
 
-I'm a big fan of Dungeons and Dragons and fantasy in general, but I also like to get outdoors and snowboard or wakeboard. Oh, and I play classical guitar.
+I'm a big fan of Dungeons and Dragons and fantasy in general, but I also like to get outdoors and snowboard or wakeboard. I love music of all kinds, and am an amateur guitarist and singer.
 
-Physics isn't the only thing that interests me, I study and know about a variety of topics. I studied abroad in Japan, and can speak Japanese conversationally. I have a twin brother who is a lawyer, and I even took an Advance Criminal Procedure class at UC Irvine's law school: that was pretty cool.
+You'll often find me playing video games in my free time, I'm a big fan of single-player role playing games like the Legend of Zelda, but I dabble in online competitive games from time to time.
