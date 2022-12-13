@@ -8,9 +8,11 @@ permalink: /myresearch/
 
 I'm an observational astrophysicist working for professor [Paul Robertson](https://faculty.sites.uci.edu/robertson/) at UC Irvine. Our specialty is the discovery and characterization of extrasolar planets (exoplanets). That means any planet orbiting a star that's not the sun (that's most of them).
 
+<img align="right" width="300" height="200" src="../Images/2136_JWST.jpeg">
+
 I have tackled many different projects during my time at UC Irvine. [I wrote an analysis paper](https://ui.adsabs.harvard.edu/abs/2022AJ....163..286B/abstract) of two exoplanet-hosting systems orbiting M dwarfs (cool, red stars). TOI-1696b is an unusually large planet considering the size of its host star, with a few other interesting properties. TOI-2136b is a fascinating planet that is potentially a "cold Haber world," an exotic environment where bacteria survives on a hot ocean planet in an exotic way ([read more here](https://hpf.psu.edu/2022/09/15/toi-2136b/)).
 
-<img align="right" width="200" height="200" src="../Images/MR_GJ3929.jpeg">
+<img align="right" width="300" height="200" src="../Images/MR_GJ3929.jpeg">
 
 More recently, [I analyzed GJ 3929](https://ui.adsabs.harvard.edu/abs/2022ApJ...936...55B/abstract), a particularly challenging system with a transiting planet identified by TESS. The analysis was made more challenging by the existence of a non-transiting companion planet that was originally unexpected. GJ 3929b is what we call and exo-Venus, an exoplanet with Venus-like conditions. Studying such planets is highly scientifically interesting in its own right, but also helps pave the way for the study of future exo-Earths.
 
