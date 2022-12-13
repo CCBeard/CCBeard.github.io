@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img align="right" width="300" height="380" src="./Images/Corey.png">
+<img align="right" width="300" height="380" src="./Images/Lick_Selfie.JPG">
 
 
 Hi, my name is Corey Beard and I'm an astrophysicist studying exoplanets at UC Irvine with professor [Paul Robertson](https://faculty.sites.uci.edu/robertson/).
