@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img align="right" width="300" height="400" src="./Images/corey.png">
+<img align="right" width="300" height="400" src="./Images/Corey.png">
 
 Hello there, welcome to my research website!
 
@@ -16,6 +16,6 @@ I'm an exoplanet scientist at UC Irvine, looking for distant worlds in the Rober
 
 
 
-
+  
 <img align="center" width="300" height="300" src="./Images/EXP197A.jpg">
 *Photo credit: Adam Makarenko*
