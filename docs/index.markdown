@@ -15,5 +15,5 @@ I'm an exoplanet scientist at UC Irvine, looking for distant worlds in the Rober
 
 
 
-![Image](Images/EXP197A.jpg)
+![Image](Images/Banner.png)
 *Photo credit: Adam Makarenko*
