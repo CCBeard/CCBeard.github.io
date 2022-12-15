@@ -4,4 +4,5 @@ title: CV
 permalink: /cv/
 ---
 
-![CV](../Images/CV_CoreyBeard.pdf)
+
+<object data="../Images/CV_CoreyBeard.pdf" width="1000" height="1000" type='application/pdf'></object>
